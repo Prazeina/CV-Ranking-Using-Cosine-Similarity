@@ -1,0 +1,49 @@
+{% extends "blog/base.html" %}
+{% block content %}
+<!--the posts we are looping here is the key of the context dic. we passed in-->
+<!--if we want to access variable we can use double curly brackets-->
+<!--that will put title of posts in h1 tag-->
+    <article class="media content-section">
+    <img class="rounded-circle article-img" src = "{{ object.author.profile.image.url }}">
+      <div class="media-body">
+        <div class="article-metadata">
+          <a class="mr-2">{{ object.author.username }}</a>
+          <small class="text-muted"><legend>Published Date:</legend>{{ object.date_posted|date:"F d, Y" }}</small>
+            {% if object.author == user %}
+                <!--<a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'post-update' object.id %}">Ranked cVs</a>-->
+                <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'post-delete' object.id %}">Delete</a>
+                <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'cv-upload-list' object.id %}">Rank cVs</a>
+            {% endif %}
+        </div>
+        <h2 class="article-title" > {{ object.title}} </h2>
+        <p class="article-content"><legend>Skill:</legend>{{ object.skill }}</p>
+        <p class="article-content"><legend>Education:</legend> {{ object.education }}</p>
+        <p class="article-content"><legend>Experience:</legend>{{ object.experience }}</p>
+        <p class="article-content"><legend>Required number of people:</legend>{{ object.required }}</p>
+        <p class="article-content"><legend>Salary:</legend>{{ object.salary }}</p>
+
+      </div>
+    </article>
+
+    {% if is_paginated %}
+        {% if page_obj.has_previous %}
+            <a class="btn btn-outline-info mb-4" href="?page=1">First</a>
+            <a class="btn btn-outline-info mb-4" href="?page={{ page_obj.previous_page_number }}">Previous</a>
+        {% endif %}
+
+        {% for num in page_obj.paginator.page_range %}
+            {% if page_obj.number == num %}
+             <a class="btn btn-info mb-4" href="?page={{ num }}">{{ num }}</a>
+            {% elif num > page_obj.number|add:'-3' and num < page_obj.number|add:'-3' %}
+                <a class="btn btn-outline-info mb-4" href="?page={{ num }}">{{ num }}</a>
+            {% endif %}
+        {% endfor %}
+
+        {% if page_obj.has_next %}
+            <a class="btn btn-outline-info mb-4" href="?page={{ page_obj.next_page_number }}">Next</a>
+            <a class="btn btn-outline-info mb-4" href="?page={{ page_obj.paginator.num_pages }}">Last</a>
+        {% endif %}
+
+    {% endif %}
+
+{% endblock content %}

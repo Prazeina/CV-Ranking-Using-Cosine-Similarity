@@ -1,0 +1,14 @@
+{% extends "blog/base.html" %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <h2> Upload CV </h2>
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form|crispy }}
+        <button type="submit" class="btn btn-primary">Upload CV</button>
+        {% if object.author == user %}
+                <a class="btn btn-secondary btn-sm mt-1 mb-1" href="{% url 'cv-upload-list' object.id %}"> Update</a>
+                <a class="btn btn-danger btn-sm mt-1 mb-1" href="{% url 'cv-delete' object.id %}"> Delete</a>
+        {% endif %}
+    </form>
+{% endblock content %}

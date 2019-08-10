@@ -1,0 +1,13 @@
+and run >> virtualenv final --python=python3.7
+and run >> source final/bin/activate / for windows devenv\scripts\activate
+then run > pip3 install django
+then run > pip3 install pillow
+then run > pip3 install django-crispy-forms
+then run > pip3 install sqlite3
+then run > pip3 install scikit-learn
+then run > pip3 install numpy
+then run > pip3 install pdfminer for python 2.x and pdfminer.six for python 3.x
+then run > python manage.py makemigrations
+then run > python manage.py migrate
+then run > python manage.py createsuperuser
+then run > python manage.py runserver

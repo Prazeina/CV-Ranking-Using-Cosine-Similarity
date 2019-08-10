@@ -1,0 +1,126 @@
+Aatish Sai
+Aatish Sai
+2016 Software Engineer Graduate
+
+About Me
+About Me    
+
+Pokhara, Nepal
++977 9817183271
+meatish.sai@gmail.com
+
+I am a freshly graduated student of Software Engineering from Gandaki College of
+Engineering and Science.
+
+I am interested in new tech and learning new stuffs.
+
+Interested in new ideas, doing all kind of stuff to get things working.
+
+Some of my college projects include:
+
+Survey and Analytics
+Middleman Ordering
+Analysis on Recommendation Algorithms (Major Project)
+
+Technical Skills
+Technical Skills    
+
+HTML, CSS, JavaScript, PHP, MySQL, Laravel, node.js
+
+Tools
+Tools    
+
+Atom.io, Linux, Windows, Ubuntu Server, Git, Adobe Photoshop, Adobe After Effect
+
+Education
+Education    
+
+Bachelors in Software Engineering (BESE)
+Gandaki College of Engineering and Science
+C, C++, Java, HTML, PHP, JavaScript, DBMS, UML
+
+Higher Secondary Education Board
+Amarsingh Higher Secondary School
+Physics, Chemistry, Biology, Mathematics
+
+Projects /  Works
+Projects /  Works
+
+  
+
+2012 - 2016
+
+2010 - 2012
+
+Analysis of Recommendation Algorithms
+College Major Project
+
+2016
+
+ https://www.visualcv.com/aatish-sai
+
+Analysis of Recommendation Algorithms was a research based project where we were responsible for
+analyzing various algorithms and finding out the scenario where they would perform best and where they
+would be at disadvantage. The project involved some coding in python along with calculation the error for
+each of the algorithms. My involvement of the project consisted of a detailed study on algorithms like
+SVD(Singular Value Decomposition), ALS(Alternation Least Square) and also implementing them in code.
+
+Server Administration
+CodeSastra
+During my work at CodeSastra, I was responsible for maintaining the server. I was involved in maintaining
+the VPS to host web application. Also I was involved in making some wordpress sites. 
+
+2014 - 2016
+
+Middleman Ordering
+College Project
+Middleman Ordering was a web based application where a vendor could take order form the user and
+deliver the goods to the user. Middleman Ordering was developed using Laravel. During this project I was
+responsible for overall monitoring of the project along with integrating a payment gateway(Paypal).
+
+Web Development
+Goreto Software
+During my short peroid of work at Goreto Software, I gained some skill on wordpress and Laravel. While on
+Goreto I developed various website for local business using Wordpress
+
+Survey and Analysis
+College Project
+Survey and Analysis was the first college project. It was a web based application build in laravel. The main
+core of the project was that the user could create a questionnaire and publish it. The result could be
+categorized using different demographics. As a member of this project I was responsible for the back end
+development.
+
+Certifications
+Certifications    
+
+Research Methodology
+
+Microsoft Technology Associate Training on Windows Server Admin
+windows server 2008
+
+MCPS: Microsoft Certified Professional
+
+MTA: Windows Server Administration Fundamentals
+windows server 2008
+
+Social Links
+Social Links    
+
+Twitter: @meatish
+Blog: blog.aatish.me
+
+ https://www.visualcv.com/aatish-sai
+
+2015
+
+2013
+
+2013
+
+2013
+
+StackOverflow: aatish-sai
+
+ https://www.visualcv.com/aatish-sai
+
+

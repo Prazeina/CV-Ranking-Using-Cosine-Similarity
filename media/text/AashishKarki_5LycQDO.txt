@@ -1,0 +1,149 @@
+Aashish Karki 
+
+Putalisadak, Kathmandu, Nepal 
+
+Cell: 9813816729 
+
+Email: aashish.y2z@gmail.com 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+EDUCATION 
+
+Bachelor of Information Management 
+GPA: 
+
++2 
+Percentage: 
+
+SLC 
+Percentage: 
+
+KEY SKILLS 
+
+ 
+
+ 
+
+St. Xavier’s College 
+
+Oct 2013 to present 
+
+Glacier International College 
+
+Jul 2011 to Apr 2013 
+
+Spangle Boarding High School 
+
+Mar 2011 
+
+ 
+
+•  Advanced knowledge in Java, C, SQL, PHP, QBASIC, HTML, CSS, JavaScript,Unity
+•  Advanced knowledge in MS Office Suite (MS Word, MS PowerPoint, MS Excel, etc.)
+•  Knowledge in use of NetBeans IDE, WordPress, Android Studio,Intellij IDE
+•  Online payment transaction using php
+•  Basic knowledge on Arduino programming
+•  Strong communication skills, data management, fast learner, skilled multitasker, analytical and critical thinker
+
+PROJECTS UNDERTAKEN 
+
+•  Number's Game : Unity
+
+  Highly based on classic instant 2048 game with a twist of its own. 
+  Objective is to swipe and get high score by adding numbers but there should be at least one prime number 
+
+•  Nirvik Travels and tours: Php Website
+
+  Travel and tours information Content management system(CMS) 
+
+•  Arthasansar : Website
+
+  Wordpress Website 
+
+•  Personal Routine: Android application
+
+-  Facilitates to keep track of things of the users 
+
+•  Sonam Store: Customer Management System
+
+-  Profile based application that records regular transactions and loans 
+-  Developed using Java programming language 
+
+•  Undergraduate Summer Project: Xavier Diaries Server
+
+-  Host database, website, and files for query from android and desktop application 
+-  Raspberry Pi was used 
+
+•  Undergraduate Summer Project: Xavier Diaries Android Application
+
+-  Facilitates to view and upload events, notes uploaded by teachers 
+-  Facilitates communication between fellow students via a chat room 
+
+•  Undergraduate Summer Project: Xavier Diaries website
+
+-  Facilitates the students to upload and view assignments, view events, and communicate with each other 
+
+-  Facilitates the teachers to upload notes, assignments, events 
+
+•  Khula Akash: Android application
+
+-  Facilitates weather notification 
+-  Use of database and well-defined user interface 
+
+•  College Project: Kode Kickers website
+
+-  Online web tutorial site for learning various programming languages 
+-  Features such as weekly quiz, ranking based on the result of the quiz, and a section for question and answer for 
+
+individual languages 
+
+•  College Project: Digital Clock
+
+-  A digital clock system that facilitates alarm system 
+-  Developed using Java programming language 
+
+•  College Project: Hangman game
+
+-  A hangman game that consists of categories to play and score keeping 
+-  Developed using C programming language 
+
+HONORS AND AWARDS 
+
+•  Academic scholarship for third semester (St. Xavier’s College)
+
+PARTICIPATIONS 
+
+•  Raspberry Pi orientation programme organized by Robotics Association of Nepal
+
+REFERENCES 
+
+•  Bal Krishna Subedi, Faculty member, Department of Computer Science, St. Xavier’s College
+• 
+
+Jeetendra Manandhar, Faculty member, Department of Computer Science, St. Xavier’s College
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

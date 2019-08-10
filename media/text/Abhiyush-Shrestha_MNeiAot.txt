@@ -1,0 +1,248 @@
+Curriculum Vitae 
+
+ 
+
+Personal Information 
+
+Name 
+
+: Abhiyush Shrestha 
+
+Date of Birth 
+
+: 14th November 1995 
+
+Place of Birth 
+
+: Kathmandu, Nepal 
+
+Address 
+
+: Bagbazar-28, Kathmandu, Nepal 
+
+Contact no 
+
+: +977-9840093931, 01-4245869 
+
+: abhiyush9858@gmail.com 
+
+E-mail 
+
+ 
+
+Objective 
+
+To gain employment with a company that offers me a consistently positive atmosphere to learn new skills and 
+
+technologies and implement them for the betterment of the business. 
+
+Academic Qualifications 
+
+2013 – Present 
+
+Kathmandu Engineering College, Kathmandu, Nepal 
+
+      Semester: % (Scholarship) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bachelor in Computer Engineering 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1st:   77.65% (awarded) 
+
+2nd:  89.53% (awarded) 
+
+3rd:  78.74% (awarded) 
+
+4th:   82.11% 
+
+5th:  78.51% (awarded) 
+
+6th:  79.15% (awarded) 
+
+7th:   80.36% 
+
+2011 - 2013 
+
+A.V.M Higher Secondary School, Lalitpur, Nepal 
+
+77.13% 
+
+ 
+
+ 
+
+Higher Secondary Education Board (HSEB) (+2) Science     First Division with Distinction 
+
+2011 
+
+A.V.M Higher Secondary School, Lalitpur, Nepal 
+
+83.13% 
+
+School Leaving Certificate (S.L.C)  
+
+First Division with Distinction 
+
+ 
+
+ 
+
+Technical Skills 
+
+Programming languages:    C, C++, R (Basic), Java (Basic) 
+
+Web development:  
+
+HTML, CSS, JavaScript (Basic), PHP (Currently learning on use basis) 
+
+Database:  
+
+Course work: 
+
+  
+Other tools: 
+ 
+ 
+ 
+
+ 
+
+MS-SQL, MySQL 
+
+Basic knowledge on Software Engineering, Database Management System, Data    
+Mining and other various academic inclusions 
+
+Photoshop, MS - Word, PowerPoint, Excel 
+
+1 
+
+Academic Projects  
+
+Telecommunication Data Analysis and Visualization (Major project | 4th year)  
+Language used:   PHP, HTML, CSS, JavaScript, R, MySQL, D3,js 
+Description:  
+
+Predicting customers who are likely to be churn 
+Customer segmentation 
+
+ 
+Android Bluetooth Chat (Minor project) (Minor project | 3rd year) 
+Language used:   Java  
+Platform:  
+Description:  
+
+Android 
+This  app  allows  users  to  make  two  way  communication  via  text  messages  that  are  within  a 
+Bluetooth range 
+This app has an ability to register new users, login, store chat history, discovery of device and 
+connecting with nearby devices 
+
+ 
+Mini Board game (Snakes and Ladders) (2nd year) 
+Language used:   C/C++ 
+Description:   
+mode) 
+ 
+
+  The user can interact using either keyboard or mouse 
+
+The game was in single and double player mode (Computer acts as one player in single player 
+
+Graphics was used to make the game more interactive and user friendly 
+
+ 
+Bank Management System (1st year) 
+Language used:   C 
+Description:  
+
+This  system  allows  to  maintain  user’s  account,  create  new  account,  deposit/withdraw  cash,       
+update/delete account and view reports 
+
+ 
+
+Work Experience 
+
+Grow By Data  
+
+Cloud Analyst 
+
+15th February, 2017 - till date 
+
+ 
+
+Personal qualities 
+
+  Hardworking 
+  Willingness to learn new things  
+  Quick learner 
+  Work cooperatively as a team 
+  Can work under high pressure 
+
+ 
+
+Language skills 
+
+Nepal Bhasa 
+Nepali 
+ 
+English   
+Hindi 
+ 
+ 
+
+: Fluent 
+: Fluent 
+: Fluent 
+: Conversational 
+
+Awards and Achievements 
+
+  Scholarship awarded for certain semesters of Bachelors in Computer Engineering 
+  Certificate of participation for Workshop on Data Analysis using Python at IT Training Nepal 
+
+ 
+
+2 
+
+References 
+
+Er. Kunjan Amatya  
+
+Institution: Kathmandu Engineering College, Kathmandu  
+
+Designation: Senior Lecturer/Dy. HOD (Computer Engineering Department)  
+
+Contact No. : +977-9841434939  
+
+ 
+
+3 
+
+
